@@ -179,6 +179,26 @@ Pair Programming – Two developers work together to write and review code in re
 
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+## Defining the project scope is crucial because it establishes the boundaries, objectives, deliverables, and constraints of a project. A well-defined scope helps in:
+
+1. Preventing Scope Creep – Clearly outlines what is included and excluded, avoiding uncontrolled changes.
+
+
+2. Setting Clear Expectations – Ensures all stakeholders understand project goals and deliverables.
+
+
+3. Improving Resource Allocation – Helps allocate time, budget, and personnel efficiently.
+##What is a Work Breakdown Structure (WBS)?
+
+A Work Breakdown Structure (WBS) is a hierarchical decomposition of a project into smaller, manageable components. It visually breaks down the entire scope into tasks, making project execution more organized.
+
+Why is WBS Useful?
+
+1. Improves Project Planning & Scheduling – Breaks complex projects into structured tasks for better tracking.
+
+
+2. Enhances Accountability – Assigns responsibility for each component to specific team members.
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
