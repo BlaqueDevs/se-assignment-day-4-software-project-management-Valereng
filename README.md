@@ -125,6 +125,20 @@ Version Control (e.g., Git) – Helps track changes and prevent conflicts.
 Code Reviews – Developers review each other's code for errors, readability, and best practices.
 
 Pair Programming – Two developers work together to write and review code in real-time.
+## Why High Standards Matter
+
+1. Improves User Satisfaction – Buggy or slow software leads to frustration and loss of trust.
+
+
+2. Reduces Maintenance Costs – Fixing defects early is far cheaper than post-release.
+
+
+3. Enhances Security – Prevents data breaches and compliance violations.
+
+
+4. Ensures Scalability – High-quality code is easier to maintain and extend.
+
+
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
