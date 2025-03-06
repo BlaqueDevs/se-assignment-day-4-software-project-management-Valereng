@@ -110,6 +110,26 @@ High complexity and innovation
 
 
 2. Game Development – New features and mechanics can be tested and refined iterativel
+## When Waterfall is More Beneficial
+
+Waterfall works best when:
+
+Requirements are well-defined upfront
+
+Strict regulations must be followed
+
+Changes are costly or difficult to implement
+
+Documentation and traceability are essential
+
+
+✅ Examples of Waterfall-friendly Projects
+
+1. Construction & Engineering – A bridge or skyscraper project requires clear planning, approvals, and strict sequencing.
+
+
+2. Government & Defense Projects – Compliance and security regulations require extensive documentation and structured processes.
+
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## Implement a Strong Testing Strategy
 
