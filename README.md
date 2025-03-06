@@ -91,6 +91,25 @@ Harder to estimate costs and timelines due to evolving requirements.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+## When Agile is More Beneficial
+
+Agile is best suited for projects with:
+
+Unclear or evolving requirements
+
+Frequent customer collaboration
+
+Fast-paced development needs
+
+High complexity and innovation
+
+
+✅ Examples of Agile-friendly Projects
+
+1. Software Development & Startups – A tech startup building a new app benefits from Agile because they can quickly adapt to user feedback and market trends.
+
+
+2. Game Development – New features and mechanics can be tested and refined iterativel
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
 ## Implement a Strong Testing Strategy
 
