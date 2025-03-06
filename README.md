@@ -326,25 +326,15 @@ Grand View Research estimates that the AI in education industry generated $2.75 
 
 Market Trend: The demand for personalized learning is rising, with AI-driven adaptive learning tools gaining traction.
 
-Software Strategy: Develop strong AI-powered personalization features that adjust to students’ learning styles and pace.
+Software Strategy: Developing strong AI-powered personalization features that adjust to students’ learning styles and pace.
 
 Market Trend: Teacher workload reduction is a major focus, with AI automating administrative tasks.
 
-Software Strategy: Prioritize automation of grading, attendance tracking, and lesson planning to appeal to educators.
+Software Strategy: Prioritizing automation of grading, attendance tracking, and lesson planning to appeal to educators.
 
 
-2. Targeting the Right Audience & Market Segments
 
-Market Trend: EdTech adoption is highest in K-12, higher education, and corporate training.
-
-Software Strategy: Position the product to address specific needs in these segments (e.g., gamified learning for K-12, AI-driven skill assessments for corporate training).
-
-Market Trend: Rapid growth in Asia-Pacific & North America due to increased investment in AI-driven education.
-
-Software Strategy: Focus on these markets for expansion, ensuring multilingual and culturally adaptive features.
-
-
-3. Staying Competitive & Differentiating from Rivals
+2. Staying Competitive & Differentiating from Rivals
 
 Market Trend: Big players like Google, Microsoft, and Coursera are integrating AI into education.
 
