@@ -200,6 +200,27 @@ Why is WBS Useful?
 2. Enhances Accountability – Assigns responsibility for each component to specific team members.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+## A detailed project schedule is essential for effective project management because it provides a structured timeline for completing tasks and achieving project milestones. The key benefits include:
+
+1. Improved Time Management – Helps allocate sufficient time for each task, preventing delays.
+
+
+2. Better Resource Allocation – Ensures personnel, budget, and materials are assigned effectively.
+
+
+3. Enhanced Coordination & Communication – Keeps all stakeholders informed about deadlines and dependencies.
+##How Gantt Charts Assist in Project Scheduling
+
+A Gantt chart is a visual project management tool that represents tasks, durations, and dependencies on a timeline. It helps by:
+
+1. Providing a Clear Visual Timeline – Displays project progress and task sequencing in an easy-to-understand format.
+
+
+2. Showing Task Dependencies – Helps identify which tasks must be completed before others can begin.
+
+
+3. Highlighting Critical Paths – Identifies crucial tasks that directly impact project completion.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
