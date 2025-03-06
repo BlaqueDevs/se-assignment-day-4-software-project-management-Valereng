@@ -92,6 +92,39 @@ Harder to estimate costs and timelines due to evolving requirements.
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+## Implement a Strong Testing Strategy
+
+Different types of testing ensure that software functions correctly under various conditions.
+
+Unit Testing – Tests individual components or functions of the software.
+
+Integration Testing – Ensures different modules work together as expected.
+
+System Testing – Verifies the entire application against requirements.
+
+User Acceptance Testing (UAT) – Ensures the software meets business needs before deployment.
+
+Performance Testing – Checks how the system performs under load.
+
+Security Testing – Identifies vulnerabilities and ensures data protection.
+
+
+
+2. Adopt Continuous Integration & Continuous Deployment (CI/CD)
+
+Automated Testing – Running tests automatically after code changes to catch issues early.
+
+Frequent Builds & Deployments – Ensures stability and quick bug fixes.
+
+Version Control (e.g., Git) – Helps track changes and prevent conflicts.
+
+
+
+3. Use Code Reviews & Pair Programming
+
+Code Reviews – Developers review each other's code for errors, readability, and best practices.
+
+Pair Programming – Two developers work together to write and review code in real-time.
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
